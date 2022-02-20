@@ -9,3 +9,4 @@
 #### Utworzenie maszyny wirtualnej
 #### Odłączenie i ponowne podłączenie dysku rozruchowego
 #### Utworzenie migawki dysku
+#### Dodanie skryptu startowego
