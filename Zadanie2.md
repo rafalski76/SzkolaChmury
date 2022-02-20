@@ -8,4 +8,4 @@
 
 #### Utworzenie maszyny wirtualnej
 #### Odłączenie i ponowne podłączenie dysku rozruchowego
-#### Utworzeniem migawki dysku
+#### Utworzenie migawki dysku
